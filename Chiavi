@@ -1,0 +1,10 @@
+python encdec.py 
+Messaggio originale: Ciao, Epicode spacca!
+Messaggio criptato: N0ROlHl2wXZiY6liWbj1DSk5ucjEhk0SYXybI6o2gB+E3S7NEtA/QquU6cnfpAeelBni9liviSHGMCQ51P5HBvlzMNr0NsNUBeTMh8EvyXqXG79cUu1iDhzBtb2QL7QJ3iBrQ08DcE0v2T+pmdmko4y6BkpZq2vkUGiwPm51Chd8tPGR6m/Kuz8oITZA6XaXfB/RuONM2+Cc+B2ZvULT3zfLN5FOWFjACy/QsiaMB/bVZ4B5RH9Db2a0bTof3HZig9fjEiMB51f/FAGjC6pezGTEpQ/FVWgzJ2lIrwkFyYSZmLyCKwzI0wYdwyvdAsJ5aESvhYpvzHkULrnqn13lyQ==
+Messaggio decriptato: Ciao, Epicode spacca!
+
+
+python firma.py  
+Base64 della firma: Ng52Qz5ceMC7NZU1z6xlTLWXbBISYa4cGKxml7/0qsk38rHUwxsgBwR2ttKuEiPjjvKBd0CxWj5Kytx3tNNVGkwtOg62+ju8k9UQQJzOnVWh72I4+XQuRw2eXjjrmGs1mLUh+I4gVhIvLjwCJM+JvXf/3VjStbgjJvNEIeFfx6HePBMEXYpi1dH2vSgWwTytKvtJu/4aM+fRsN8d6OpbDmPmGey8iei388mGZXgtfv9Oc6oJ9T7ASjygnXNg7oXULxk752Lcv83jaaBfaE7uiwMVnrhCjJy59XkvJvAS5kG51xTU3yQQVebAbkWuznSsW4GlAg3Hqd3FmzUTbXU5gA==
+Messaggio originale da confrontare: Ciao, Epicode spacca!
+La firma è valida.
